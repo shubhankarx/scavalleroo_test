@@ -1,6 +1,6 @@
 ### Hi there, I'm Alessandro 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+### I'm a Computer Science Students, Software Developer and Basketball Player!
 
 - 🔭 I’m currently working on a [Rosterbook][rosterbook] 🏀!
 - 🌱 I’m currently learning everything
@@ -45,7 +45,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/scavalleroo
+[twitter]: https://twitter.com/AlleCavallotti
 [instagram]: https://instagram.com/scavalleroo
 [linkedin]: https://linkedin.com/in/alessandro-cavallotti-157257145
 [rosterbook]: https://rosterbook.it
