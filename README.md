@@ -41,11 +41,11 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="scavalleroo's Github Stats" src="https://github-readme-stats.scavalleroo.vercel.app/api?username=scavalleroo&show_icons=true&hide_border=true" />
+  <img align="left" alt="scavalleroo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scavalleroo&show_icons=true&hide_border=true" />
 
 </details>
 
 [twitter]: https://twitter.com/scavalleroo
 [instagram]: https://instagram.com/scavalleroo
-[linkedin]: https://linkedin.com/in/scavalleroo
+[linkedin]: https://linkedin.com/in/alessandro-cavallotti-157257145
 [rosterbook]: https://rosterbook.it
