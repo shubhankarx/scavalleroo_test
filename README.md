@@ -1,11 +1,6 @@
 ### Hi there, I'm Alessandro 👋
 
-### I'm a Computer Science Students, Software Developer and Basketball Player!
-
-- 🔭 I’m currently working on a [Rosterbook][rosterbook] 🏀!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with others students
-- 🥅 2020 Goals: help people to join forces
+I'm a Computer Science Students, Software Developer and Basketball Player!
 
 ### Connect with me:
 
